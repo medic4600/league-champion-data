@@ -1,0 +1,37 @@
+name: weekly-availability
+
+on:
+  schedule:
+    # Fridays 13:00 UTC - 13 hours after DynastyProcess's Friday 00:03 UTC scrape
+    - cron: "0 13 * * 5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  weekly-availability:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install pandas pyarrow numpy
+
+      - name: Compute availability flags
+        run: python scripts/compute_availability.py
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add availability_*.json
+          git commit -m "Availability Watch weekly update $(date -u +%F)" || echo "No changes to commit"
+          git push
+
