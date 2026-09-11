@@ -1,8 +1,5129 @@
 {
  "schemaVersion": 1,
  "season": 2026,
- "generatedAt": "2026-09-04T16:42:42.932248+00:00",
- "scrapeDate": "2026-09-04",
+ "generatedAt": "2026-09-11T16:53:55.662638+00:00",
+ "scrapeDate": "2026-09-11",
  "source": "FantasyPros ECR via DynastyProcess (github.com/dynastyprocess/data), weekly scrape",
- "players": []
+ "players": [
+  {
+   "gsisId": "00-0034796",
+   "sleeperId": "4881",
+   "name": "Lamar Jackson",
+   "team": "BAL",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036442",
+   "sleeperId": "6770",
+   "name": "Joe Burrow",
+   "team": "CIN",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036389",
+   "sleeperId": "6904",
+   "name": "Jalen Hurts",
+   "team": "PHI",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036355",
+   "sleeperId": "6797",
+   "name": "Justin Herbert",
+   "team": "LAC",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0034857",
+   "sleeperId": "4984",
+   "name": "Josh Allen",
+   "team": "BUF",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0033077",
+   "sleeperId": "3294",
+   "name": "Dak Prescott",
+   "team": "DAL",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039918",
+   "sleeperId": "11560",
+   "name": "Caleb Williams",
+   "team": "CHI",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036971",
+   "sleeperId": "7523",
+   "name": "Trevor Lawrence",
+   "team": "JAC",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0033106",
+   "sleeperId": "3163",
+   "name": "Jared Goff",
+   "team": "DET",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039851",
+   "sleeperId": "11564",
+   "name": "Drake Maye",
+   "team": "NEP",
+   "position": "QB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0039910",
+   "sleeperId": "11566",
+   "name": "Jayden Daniels",
+   "team": "WAS",
+   "position": "QB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0040691",
+   "sleeperId": "12508",
+   "name": "Jaxson Dart",
+   "team": "NYG",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0026498",
+   "sleeperId": "421",
+   "name": "Matthew Stafford",
+   "team": "LAR",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0034855",
+   "sleeperId": "4892",
+   "name": "Baker Mayfield",
+   "team": "TBB",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037834",
+   "sleeperId": "8183",
+   "name": "Brock Purdy",
+   "team": "SFO",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0035228",
+   "sleeperId": "5849",
+   "name": "Kyler Murray",
+   "team": "MIN",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039732",
+   "sleeperId": "11563",
+   "name": "Bo Nix",
+   "team": "DEN",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040743",
+   "sleeperId": "12545",
+   "name": "Tyler Shough",
+   "team": "NOS",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038128",
+   "sleeperId": "8161",
+   "name": "Malik Willis",
+   "team": "MIA",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0033873",
+   "sleeperId": "4046",
+   "name": "Patrick Mahomes II",
+   "team": "KCC",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036264",
+   "sleeperId": "6804",
+   "name": "Jordan Love",
+   "team": "GBP",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0034869",
+   "sleeperId": "4943",
+   "name": "Sam Darnold",
+   "team": "SEA",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0035710",
+   "sleeperId": "5870",
+   "name": "Daniel Jones",
+   "team": "IND",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039150",
+   "sleeperId": "9228",
+   "name": "Bryce Young",
+   "team": "CAR",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039163",
+   "sleeperId": "9758",
+   "name": "C.J. Stroud",
+   "team": "HOU",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0023459",
+   "sleeperId": "96",
+   "name": "Aaron Rodgers",
+   "team": "PIT",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0033119",
+   "sleeperId": "3257",
+   "name": "Jacoby Brissett",
+   "team": "ARI",
+   "position": "QB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0029604",
+   "sleeperId": "1166",
+   "name": "Kirk Cousins",
+   "team": "LVR",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0030565",
+   "sleeperId": "1373",
+   "name": "Geno Smith",
+   "team": "NYJ",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040676",
+   "sleeperId": "12522",
+   "name": "Cam Ward",
+   "team": "TEN",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036212",
+   "sleeperId": "6768",
+   "name": "Tua Tagovailoa",
+   "team": "ATL",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0033537",
+   "sleeperId": "4017",
+   "name": "Deshaun Watson",
+   "team": "CLE",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040668",
+   "sleeperId": "12524",
+   "name": "Shedeur Sanders",
+   "team": "CLE",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041562",
+   "sleeperId": "13269",
+   "name": "Fernando Mendoza",
+   "team": "LVR",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039923",
+   "sleeperId": "11565",
+   "name": "J.J. McCarthy",
+   "team": "MIN",
+   "position": "QB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0036945",
+   "sleeperId": "7591",
+   "name": "Justin Fields",
+   "team": "KCC",
+   "position": "QB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0026158",
+   "sleeperId": "19",
+   "name": "Joe Flacco",
+   "team": "CIN",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036972",
+   "sleeperId": "7527",
+   "name": "Mac Jones",
+   "team": "SFO",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0031503",
+   "sleeperId": "2306",
+   "name": "Jameis Winston",
+   "team": "NYG",
+   "position": "QB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0032268",
+   "sleeperId": "2307",
+   "name": "Marcus Mariota",
+   "team": "WAS",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037012",
+   "sleeperId": "7610",
+   "name": "Trey Lance",
+   "team": "LAC",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041561",
+   "sleeperId": "13272",
+   "name": "Carson Beck",
+   "team": "ARI",
+   "position": "QB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0033662",
+   "sleeperId": "4574",
+   "name": "Cooper Rush",
+   "team": "ATL",
+   "position": "QB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0035264",
+   "sleeperId": "6136",
+   "name": "Jarrett Stidham",
+   "team": "DEN",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0028118",
+   "sleeperId": "827",
+   "name": "Tyrod Taylor",
+   "team": "GBP",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0035993",
+   "sleeperId": "7083",
+   "name": "Tyler Huntley",
+   "team": "BAL",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037077",
+   "sleeperId": "8162",
+   "name": "Sam Howell",
+   "team": "DAL",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039164",
+   "sleeperId": "9229",
+   "name": "Anthony Richardson Sr.",
+   "team": "IND",
+   "position": "QB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0038416",
+   "sleeperId": "11256",
+   "name": "Tyson Bagent",
+   "team": "CHI",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039376",
+   "sleeperId": "11562",
+   "name": "Spencer Rattler",
+   "team": "NOS",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0032950",
+   "sleeperId": "3161",
+   "name": "Carson Wentz",
+   "team": "MIN",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036898",
+   "sleeperId": "7585",
+   "name": "Davis Mills",
+   "team": "HOU",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041056",
+   "sleeperId": "13303",
+   "name": "Cade Klubnik",
+   "team": "NYJ",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0033949",
+   "sleeperId": "4179",
+   "name": "Joshua Dobbs",
+   "team": "DET",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0034771",
+   "sleeperId": "4972",
+   "name": "Mason Rudolph",
+   "team": "PIT",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040234",
+   "sleeperId": "12500",
+   "name": "Quinn Ewers",
+   "team": "JAC",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040206",
+   "sleeperId": "12470",
+   "name": "Riley Leonard",
+   "team": "IND",
+   "position": "QB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0041251",
+   "sleeperId": "13425",
+   "name": "Jalon Daniels",
+   "team": "TBB",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039107",
+   "sleeperId": "10857",
+   "name": "Stetson Bennett IV",
+   "team": "LAR",
+   "position": "QB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0038102",
+   "sleeperId": "8160",
+   "name": "Kenny Pickett",
+   "team": "CAR",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0035289",
+   "sleeperId": "6011",
+   "name": "Gardner Minshew II",
+   "team": "ARI",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038476",
+   "sleeperId": "11292",
+   "name": "Tommy DeVito",
+   "team": "NEP",
+   "position": "QB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0034577",
+   "sleeperId": "5127",
+   "name": "Kyle Allen",
+   "team": "BUF",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040014",
+   "sleeperId": "12494",
+   "name": "Kyle McCord",
+   "team": "MIA",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0033869",
+   "sleeperId": "3976",
+   "name": "Mitchell Trubisky",
+   "team": "TEN",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0027973",
+   "sleeperId": "829",
+   "name": "Andy Dalton",
+   "team": "PHI",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038400",
+   "sleeperId": "9230",
+   "name": "Tanner McKee",
+   "team": "PHI",
+   "position": "QB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0035704",
+   "sleeperId": "5854",
+   "name": "Drew Lock",
+   "team": "SEA",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036928",
+   "sleeperId": "7605",
+   "name": "Kyle Trask",
+   "team": "FA",
+   "position": "QB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0033319",
+   "sleeperId": "4464",
+   "name": "Nick Mullens",
+   "team": "JAC",
+   "position": "QB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0041092",
+   "sleeperId": "13306",
+   "name": "Taylen Green",
+   "team": "CLE",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038550",
+   "sleeperId": "9998",
+   "name": "Hendon Hooker",
+   "team": "TEN",
+   "position": "QB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0039398",
+   "sleeperId": "11557",
+   "name": "Joe Milton III",
+   "team": "DAL",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041149",
+   "sleeperId": "13415",
+   "name": "Haynes King",
+   "team": "CAR",
+   "position": "QB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0041565",
+   "sleeperId": "13289",
+   "name": "Drew Allar",
+   "team": "PIT",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040203",
+   "sleeperId": "12511",
+   "name": "Will Howard",
+   "team": "PIT",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0035100",
+   "sleeperId": "6111",
+   "name": "Jake Browning",
+   "team": "FA",
+   "position": "QB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0031345",
+   "sleeperId": "1837",
+   "name": "Jimmy Garoppolo",
+   "team": "LAR",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040398",
+   "sleeperId": "12538",
+   "name": "Brady Cook",
+   "team": "MIA",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": null,
+   "sleeperId": null,
+   "name": "Collin Hill",
+   "team": "FA",
+   "position": "QB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0037013",
+   "sleeperId": "7538",
+   "name": "Zach Wilson",
+   "team": "NOS",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041194",
+   "sleeperId": null,
+   "name": "Jack Strand",
+   "team": "ATL",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037324",
+   "sleeperId": "8413",
+   "name": "Chris Oladokun",
+   "team": "FA",
+   "position": "QB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0028986",
+   "sleeperId": "1737",
+   "name": "Case Keenum",
+   "team": "CHI",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040906",
+   "sleeperId": "13404",
+   "name": "Garrett Nussmeier",
+   "team": "KCC",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038579",
+   "sleeperId": "10866",
+   "name": "Aidan O'Connell",
+   "team": "LVR",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040981",
+   "sleeperId": "13350",
+   "name": "Joe Fagnano",
+   "team": "BAL",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036879",
+   "sleeperId": "7583",
+   "name": "Sam Ehlinger",
+   "team": "DEN",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040494",
+   "sleeperId": "12775",
+   "name": "Max Brosmer",
+   "team": "MIN",
+   "position": "QB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0038998",
+   "sleeperId": "10215",
+   "name": "Jake Haener",
+   "team": "NYG",
+   "position": "QB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0039801",
+   "sleeperId": "11556",
+   "name": "Devin Leary",
+   "team": "FA",
+   "position": "QB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0041117",
+   "sleeperId": "13557",
+   "name": "Athan Kaliakmanis",
+   "team": "WAS",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0030533",
+   "sleeperId": "1338",
+   "name": "Matt Barkley",
+   "team": "FA",
+   "position": "QB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0041453",
+   "sleeperId": "13314",
+   "name": "Luke Altmyer",
+   "team": "DET",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038391",
+   "sleeperId": "10983",
+   "name": "Sean Clifford",
+   "team": "CIN",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040464",
+   "sleeperId": "12773",
+   "name": "DJ Uiagalelei",
+   "team": "LAC",
+   "position": "QB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0032434",
+   "sleeperId": "3357",
+   "name": "Brandon Allen",
+   "team": "FA",
+   "position": "QB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0039139",
+   "sleeperId": "9221",
+   "name": "Jahmyr Gibbs",
+   "team": "DET",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038542",
+   "sleeperId": "9509",
+   "name": "Bijan Robinson",
+   "team": "ATL",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0033280",
+   "sleeperId": "4034",
+   "name": "Christian McCaffrey",
+   "team": "SFO",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036223",
+   "sleeperId": "6813",
+   "name": "Jonathan Taylor",
+   "team": "IND",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039040",
+   "sleeperId": "9226",
+   "name": "De'Von Achane",
+   "team": "MIA",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0034844",
+   "sleeperId": "4866",
+   "name": "Saquon Barkley",
+   "team": "PHI",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038597",
+   "sleeperId": "9224",
+   "name": "Chase Brown",
+   "team": "CIN",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040666",
+   "sleeperId": "12507",
+   "name": "Omarion Hampton",
+   "team": "LAC",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0032764",
+   "sleeperId": "3198",
+   "name": "Derrick Henry",
+   "team": "BAL",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037248",
+   "sleeperId": "8138",
+   "name": "James Cook III",
+   "team": "BUF",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036997",
+   "sleeperId": "7588",
+   "name": "Javonte Williams",
+   "team": "DAL",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038134",
+   "sleeperId": "8151",
+   "name": "Kenneth Walker III",
+   "team": "KCC",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040122",
+   "sleeperId": "12527",
+   "name": "Ashton Jeanty",
+   "team": "LVR",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0036973",
+   "sleeperId": "7543",
+   "name": "Travis Etienne Jr.",
+   "team": "NOS",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037840",
+   "sleeperId": "8150",
+   "name": "Kyren Williams",
+   "team": "LAR",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036275",
+   "sleeperId": "6790",
+   "name": "D'Andre Swift",
+   "team": "CHI",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038120",
+   "sleeperId": "8155",
+   "name": "Breece Hall",
+   "team": "NYJ",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036875",
+   "sleeperId": "7611",
+   "name": "Rhamondre Stevenson",
+   "team": "NEP",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039361",
+   "sleeperId": "11584",
+   "name": "Bucky Irving",
+   "team": "TBB",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040715",
+   "sleeperId": "12481",
+   "name": "Cam Skattebo",
+   "team": "NYG",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0035685",
+   "sleeperId": "5892",
+   "name": "David Montgomery",
+   "team": "HOU",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041027",
+   "sleeperId": "13287",
+   "name": "Jeremiyah Love",
+   "team": "ARI",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0037228",
+   "sleeperId": "8228",
+   "name": "Jaylen Warren",
+   "team": "PIT",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040784",
+   "sleeperId": "12512",
+   "name": "Quinshon Judkins",
+   "team": "CLE",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041512",
+   "sleeperId": "13286",
+   "name": "Jadarian Price",
+   "team": "SEA",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040719",
+   "sleeperId": "12490",
+   "name": "Bhayshul Tuten",
+   "team": "JAC",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0035261",
+   "sleeperId": "5967",
+   "name": "Tony Pollard",
+   "team": "TEN",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036139",
+   "sleeperId": "7021",
+   "name": "Rico Dowdle",
+   "team": "PIT",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036555",
+   "sleeperId": "7594",
+   "name": "Chuba Hubbard",
+   "team": "CAR",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039811",
+   "sleeperId": "11581",
+   "name": "MarShawn Lloyd",
+   "team": "GBP",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0036919",
+   "sleeperId": "7567",
+   "name": "Kenny Gainwell",
+   "team": "TBB",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036158",
+   "sleeperId": "6806",
+   "name": "J.K. Dobbins",
+   "team": "DEN",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0033293",
+   "sleeperId": "4199",
+   "name": "Aaron Jones Sr.",
+   "team": "MIN",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040730",
+   "sleeperId": "12489",
+   "name": "RJ Harvey",
+   "team": "DEN",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0037525",
+   "sleeperId": "8408",
+   "name": "Jordan Mason",
+   "team": "MIN",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039344",
+   "sleeperId": "11583",
+   "name": "Jonathon Brooks",
+   "team": "CAR",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0037256",
+   "sleeperId": "8136",
+   "name": "Rachaad White",
+   "team": "WAS",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040242",
+   "sleeperId": "12533",
+   "name": "Jacory Croskey-Merritt",
+   "team": "WAS",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039738",
+   "sleeperId": "11586",
+   "name": "Blake Corum",
+   "team": "LAR",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037263",
+   "sleeperId": "8132",
+   "name": "Tyler Allgeier",
+   "team": "ARI",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0039032",
+   "sleeperId": "9508",
+   "name": "Tyjae Spears",
+   "team": "TEN",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038611",
+   "sleeperId": "10219",
+   "name": "Chris Rodriguez Jr.",
+   "team": "JAC",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040236",
+   "sleeperId": "12534",
+   "name": "Kyle Monangai",
+   "team": "CHI",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040583",
+   "sleeperId": "12474",
+   "name": "Woody Marks",
+   "team": "HOU",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "WAS569019",
+   "sleeperId": "13305",
+   "name": "Mike Washington Jr.",
+   "team": "LVR",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0040162",
+   "sleeperId": "12469",
+   "name": "Dylan Sampson",
+   "team": "CLE",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038454",
+   "sleeperId": "9511",
+   "name": "Keaton Mitchell",
+   "team": "LAC",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039299",
+   "sleeperId": "12048",
+   "name": "George Holani",
+   "team": "SEA",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0037746",
+   "sleeperId": "8154",
+   "name": "Brian Robinson Jr.",
+   "team": "ATL",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0034975",
+   "sleeperId": "5995",
+   "name": "Justice Hill",
+   "team": "BAL",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038555",
+   "sleeperId": "9225",
+   "name": "Tank Bigsby",
+   "team": "PHI",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039794",
+   "sleeperId": "11576",
+   "name": "Braelon Allen",
+   "team": "NYJ",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041496",
+   "sleeperId": "13345",
+   "name": "Jonah Coleman",
+   "team": "DEN",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039384",
+   "sleeperId": "11655",
+   "name": "Tyrone Tracy Jr.",
+   "team": "NYG",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0041013",
+   "sleeperId": "13337",
+   "name": "Emmett Johnson",
+   "team": "KCC",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038685",
+   "sleeperId": "11370",
+   "name": "Chris Brooks",
+   "team": "GBP",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0033526",
+   "sleeperId": "4147",
+   "name": "Samaje Perine",
+   "team": "CIN",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039391",
+   "sleeperId": "11647",
+   "name": "Kimani Vidal",
+   "team": "LAC",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039875",
+   "sleeperId": "11575",
+   "name": "Ray Davis",
+   "team": "BUF",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038797",
+   "sleeperId": "11435",
+   "name": "Emanuel Wilson",
+   "team": "SEA",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038951",
+   "sleeperId": "9506",
+   "name": "Sean Tucker",
+   "team": "TBB",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039874",
+   "sleeperId": "11643",
+   "name": "Jaylen Wright",
+   "team": "MIA",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037563",
+   "sleeperId": "8800",
+   "name": "Malik Davis",
+   "team": "DAL",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041052",
+   "sleeperId": "13414",
+   "name": "Kaelon Black",
+   "team": "SFO",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0035537",
+   "sleeperId": "6039",
+   "name": "Ty Johnson",
+   "team": "BUF",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036893",
+   "sleeperId": "7528",
+   "name": "Najee Harris",
+   "team": "NYG",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0039798",
+   "sleeperId": "11571",
+   "name": "Isaiah Davis",
+   "team": "NYJ",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040198",
+   "sleeperId": "12495",
+   "name": "Ollie Gordon II",
+   "team": "MIA",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040142",
+   "sleeperId": "12504",
+   "name": "Kaleb Johnson",
+   "team": "GBP",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0033906",
+   "sleeperId": "4035",
+   "name": "Alvin Kamara",
+   "team": "NOS",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0041096",
+   "sleeperId": "13405",
+   "name": "Kaytron Allen",
+   "team": "WAS",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038551",
+   "sleeperId": "9757",
+   "name": "Kendre Miller",
+   "team": "NOS",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040886",
+   "sleeperId": "13288",
+   "name": "Nicholas Singleton",
+   "team": "TEN",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040238",
+   "sleeperId": "12544",
+   "name": "LeQuint Allen Jr.",
+   "team": "JAC",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040078",
+   "sleeperId": "12455",
+   "name": "Brashard Smith",
+   "team": "KCC",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041125",
+   "sleeperId": "13424",
+   "name": "Seth McGowan",
+   "team": "IND",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0035250",
+   "sleeperId": "6130",
+   "name": "Devin Singletary",
+   "team": "NYG",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041104",
+   "sleeperId": "13347",
+   "name": "Demond Claiborne",
+   "team": "MIN",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0029892",
+   "sleeperId": "1379",
+   "name": "Kyle Juszczyk",
+   "team": "SFO",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0040556",
+   "sleeperId": "12491",
+   "name": "Corey Kiner",
+   "team": "NEP",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0040179",
+   "sleeperId": "12471",
+   "name": "DJ Giddens",
+   "team": "IND",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039921",
+   "sleeperId": "11589",
+   "name": "Trey Benson",
+   "team": "ARI",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0041490",
+   "sleeperId": "13423",
+   "name": "Eli Heidenreich",
+   "team": "PIT",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038896",
+   "sleeperId": "11237",
+   "name": "Jacob Saylors",
+   "team": "DET",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0038705",
+   "sleeperId": "11199",
+   "name": "Emari Demercado",
+   "team": "DAL",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037157",
+   "sleeperId": "8122",
+   "name": "Bam Knight",
+   "team": "ARI",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039373",
+   "sleeperId": "11579",
+   "name": "Audric Estime",
+   "team": "NOS",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0035125",
+   "sleeperId": "6109",
+   "name": "Alec Ingold",
+   "team": "LAC",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039021",
+   "sleeperId": "10235",
+   "name": "Roschon Johnson",
+   "team": "CHI",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039364",
+   "sleeperId": "11729",
+   "name": "Sione Vaki",
+   "team": "DET",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0040586",
+   "sleeperId": "12457",
+   "name": "Jaydon Blue",
+   "team": "PHI",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0038738",
+   "sleeperId": "11510",
+   "name": "Hunter Luepke",
+   "team": "DAL",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0032104",
+   "sleeperId": "2359",
+   "name": "Ameer Abdullah",
+   "team": "JAC",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040208",
+   "sleeperId": "12543",
+   "name": "Tahj Brooks",
+   "team": "CIN",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0035700",
+   "sleeperId": "5850",
+   "name": "Josh Jacobs",
+   "team": "GBP",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0039746",
+   "sleeperId": "11577",
+   "name": "Will Shipley",
+   "team": "PHI",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": null,
+   "sleeperId": null,
+   "name": "Max Bredeson",
+   "team": "MIN",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039796",
+   "sleeperId": "11570",
+   "name": "Rasheen Ali",
+   "team": "BAL",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0033376",
+   "sleeperId": "4353",
+   "name": "Patrick Ricard",
+   "team": "NYG",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039407",
+   "sleeperId": "11574",
+   "name": "Dylan Laube",
+   "team": "LVR",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040466",
+   "sleeperId": "12472",
+   "name": "Raheim Sanders",
+   "team": "CLE",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037267",
+   "sleeperId": "8143",
+   "name": "Jerome Ford",
+   "team": "FA",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038794",
+   "sleeperId": "11439",
+   "name": "Jaleel McLaughlin",
+   "team": "CLE",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041217",
+   "sleeperId": "13348",
+   "name": "J'Mari Taylor",
+   "team": "JAC",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0034959",
+   "sleeperId": "6323",
+   "name": "Andrew Beck",
+   "team": "NYJ",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036265",
+   "sleeperId": "6828",
+   "name": "AJ Dillon",
+   "team": "CAR",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0039405",
+   "sleeperId": "11588",
+   "name": "Jawhar Jordan",
+   "team": "HOU",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040202",
+   "sleeperId": "12476",
+   "name": "Devin Neal",
+   "team": "FA",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038098",
+   "sleeperId": "8116",
+   "name": "Pierre Strong Jr.",
+   "team": "GBP",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0040937",
+   "sleeperId": "13725",
+   "name": "Dominic Richardson",
+   "team": "FA",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0041129",
+   "sleeperId": "13403",
+   "name": "Jam Miller",
+   "team": "FA",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040692",
+   "sleeperId": "11569",
+   "name": "Jarquez Hunter",
+   "team": "MIA",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040568",
+   "sleeperId": "12969",
+   "name": "Lan Larison",
+   "team": "NEP",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0039652",
+   "sleeperId": "12356",
+   "name": "Jabari Small",
+   "team": "DET",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039603",
+   "sleeperId": "12171",
+   "name": "British Brooks",
+   "team": "HOU",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039471",
+   "sleeperId": "11573",
+   "name": "Frank Gore Jr.",
+   "team": "BUF",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036727",
+   "sleeperId": "8025",
+   "name": "Adam Prentice",
+   "team": "DEN",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037557",
+   "sleeperId": "8195",
+   "name": "Ronnie Rivers",
+   "team": "LAR",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040964",
+   "sleeperId": "13778",
+   "name": "EJ Smith",
+   "team": "FA",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0031687",
+   "sleeperId": "2749",
+   "name": "Raheem Mostert",
+   "team": "LVR",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0037258",
+   "sleeperId": "8129",
+   "name": "Dameon Pierce",
+   "team": "PHI",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0036187",
+   "sleeperId": "7204",
+   "name": "Reggie Gilliam",
+   "team": "NEP",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036842",
+   "sleeperId": "7720",
+   "name": "Kene Nwangwu",
+   "team": "NYJ",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037085",
+   "sleeperId": "8208",
+   "name": "Tyler Badie",
+   "team": "DEN",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037509",
+   "sleeperId": "8220",
+   "name": "Sincere McCormick",
+   "team": "SFO",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0037594",
+   "sleeperId": "8254",
+   "name": "Julius Chestnut",
+   "team": "TEN",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040021",
+   "sleeperId": "12738",
+   "name": "Phil Mafah",
+   "team": "FA",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0031595",
+   "sleeperId": "2471",
+   "name": "Michael Burton",
+   "team": "CLE",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0038396",
+   "sleeperId": "10223",
+   "name": "Eric Gray",
+   "team": "FA",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041191",
+   "sleeperId": "13595",
+   "name": "Cash Jones",
+   "team": "ATL",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040429",
+   "sleeperId": "12787",
+   "name": "Josh Williams",
+   "team": "TBB",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037120",
+   "sleeperId": "8207",
+   "name": "Tyler Goodson",
+   "team": "ATL",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0033923",
+   "sleeperId": "4098",
+   "name": "Kareem Hunt",
+   "team": "FA",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0036020",
+   "sleeperId": "6918",
+   "name": "Salvon Ahmed",
+   "team": "CHI",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038440",
+   "sleeperId": "11299",
+   "name": "Zavier Scott",
+   "team": "CHI",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0035594",
+   "sleeperId": "6012",
+   "name": "Travis Homer",
+   "team": "PIT",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": null,
+   "sleeperId": null,
+   "name": "Nate Carter",
+   "team": "KCC",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036755",
+   "sleeperId": "7537",
+   "name": "Jaret Patterson",
+   "team": "FA",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0036924",
+   "sleeperId": "7607",
+   "name": "Michael Carter",
+   "team": "TEN",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0033897",
+   "sleeperId": "4018",
+   "name": "Joe Mixon",
+   "team": "FA",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0038409",
+   "sleeperId": "9510",
+   "name": "Lew Nichols III",
+   "team": "PIT",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037617",
+   "sleeperId": "8123",
+   "name": "Hassan Haskins",
+   "team": "NEP",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041415",
+   "sleeperId": "13315",
+   "name": "Dean Connors",
+   "team": "LAR",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0035567",
+   "sleeperId": "6659",
+   "name": "Craig Reynolds",
+   "team": "WAS",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": null,
+   "sleeperId": null,
+   "name": "Anthony Hankerson",
+   "team": "FA",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0035806",
+   "sleeperId": "6996",
+   "name": "JaMycal Hasty",
+   "team": "FA",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036569",
+   "sleeperId": "7529",
+   "name": "Gary Brightwell",
+   "team": "FA",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040998",
+   "sleeperId": "13416",
+   "name": "Roman Hemby",
+   "team": "LVR",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0040067",
+   "sleeperId": "13047",
+   "name": "Jacardia Wright",
+   "team": "SEA",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0040039",
+   "sleeperId": "12928",
+   "name": "Amar Johnson",
+   "team": "LAC",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0041312",
+   "sleeperId": "13437",
+   "name": "Noah Whittington",
+   "team": "HOU",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": null,
+   "sleeperId": null,
+   "name": "Gregory Desrosiers",
+   "team": "LAC",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": null,
+   "sleeperId": null,
+   "name": "Kentrel Bullock",
+   "team": "CIN",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040260",
+   "sleeperId": "12797",
+   "name": "Ahmani Marshall",
+   "team": "CAR",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040400",
+   "sleeperId": "12515",
+   "name": "Donovan Edwards",
+   "team": "FA",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0041244",
+   "sleeperId": "13946",
+   "name": "Jamal Haynes",
+   "team": "FA",
+   "position": "RB",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0040946",
+   "sleeperId": "13906",
+   "name": "Jaden Nixon",
+   "team": "FA",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": null,
+   "sleeperId": null,
+   "name": "Anderson Castle",
+   "team": "IND",
+   "position": "RB",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036900",
+   "sleeperId": "7564",
+   "name": "Ja'Marr Chase",
+   "team": "CIN",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039075",
+   "sleeperId": "9493",
+   "name": "Puka Nacua",
+   "team": "LAR",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036963",
+   "sleeperId": "7547",
+   "name": "Amon-Ra St. Brown",
+   "team": "DET",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038543",
+   "sleeperId": "9488",
+   "name": "Jaxon Smith-Njigba",
+   "team": "SEA",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036358",
+   "sleeperId": "6786",
+   "name": "CeeDee Lamb",
+   "team": "DAL",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037239",
+   "sleeperId": "8144",
+   "name": "Chris Olave",
+   "team": "NOS",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036322",
+   "sleeperId": "6794",
+   "name": "Justin Jefferson",
+   "team": "MIN",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036554",
+   "sleeperId": "7569",
+   "name": "Nico Collins",
+   "team": "HOU",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037247",
+   "sleeperId": "8137",
+   "name": "George Pickens",
+   "team": "DAL",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0037238",
+   "sleeperId": "8112",
+   "name": "Drake London",
+   "team": "ATL",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0036912",
+   "sleeperId": "7525",
+   "name": "DeVonta Smith",
+   "team": "PHI",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0035676",
+   "sleeperId": "5859",
+   "name": "A.J. Brown",
+   "team": "NEP",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039064",
+   "sleeperId": "9997",
+   "name": "Zay Flowers",
+   "team": "BAL",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037740",
+   "sleeperId": "8146",
+   "name": "Garrett Wilson",
+   "team": "NYJ",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036410",
+   "sleeperId": "6801",
+   "name": "Tee Higgins",
+   "team": "CIN",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039915",
+   "sleeperId": "11635",
+   "name": "Ladd McConkey",
+   "team": "LAC",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0039067",
+   "sleeperId": "10229",
+   "name": "Rashee Rice",
+   "team": "KCC",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0040124",
+   "sleeperId": "12526",
+   "name": "Tetairoa McMillan",
+   "team": "CAR",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036613",
+   "sleeperId": "7526",
+   "name": "Jaylen Waddle",
+   "team": "DEN",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039337",
+   "sleeperId": "11632",
+   "name": "Malik Nabers",
+   "team": "NYG",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0031381",
+   "sleeperId": "2133",
+   "name": "Davante Adams",
+   "team": "LAR",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040129",
+   "sleeperId": "12514",
+   "name": "Emeka Egbuka",
+   "team": "TBB",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037240",
+   "sleeperId": "8148",
+   "name": "Jameson Williams",
+   "team": "DET",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040735",
+   "sleeperId": "12519",
+   "name": "Luther Burden III",
+   "team": "CHI",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0038124",
+   "sleeperId": "8167",
+   "name": "Christian Watson",
+   "team": "GBP",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038606",
+   "sleeperId": "9487",
+   "name": "Parker Washington",
+   "team": "JAC",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0035659",
+   "sleeperId": "5927",
+   "name": "Terry McLaurin",
+   "team": "WAS",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0033921",
+   "sleeperId": "4037",
+   "name": "Chris Godwin Jr.",
+   "team": "TBB",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0031408",
+   "sleeperId": "2216",
+   "name": "Mike Evans",
+   "team": "SFO",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0034827",
+   "sleeperId": "4983",
+   "name": "DJ Moore",
+   "team": "BUF",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039919",
+   "sleeperId": "11620",
+   "name": "Rome Odunze",
+   "team": "CHI",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0035640",
+   "sleeperId": "5846",
+   "name": "DK Metcalf",
+   "team": "PIT",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039849",
+   "sleeperId": "11628",
+   "name": "Marvin Harrison Jr.",
+   "team": "ARI",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036252",
+   "sleeperId": "6819",
+   "name": "Michael Pittman Jr.",
+   "team": "PIT",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038997",
+   "sleeperId": "9500",
+   "name": "Josh Downs",
+   "team": "IND",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0034348",
+   "sleeperId": "5045",
+   "name": "Courtland Sutton",
+   "team": "DEN",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038117",
+   "sleeperId": "8126",
+   "name": "Wan'Dale Robinson",
+   "team": "TEN",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038544",
+   "sleeperId": "9754",
+   "name": "Quentin Johnston",
+   "team": "LAC",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041438",
+   "sleeperId": "13279",
+   "name": "Carnell Tate",
+   "team": "TEN",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0038559",
+   "sleeperId": "10232",
+   "name": "Michael Wilson",
+   "team": "ARI",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039893",
+   "sleeperId": "11631",
+   "name": "Brian Thomas Jr.",
+   "team": "JAC",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039146",
+   "sleeperId": "10222",
+   "name": "Jayden Reed",
+   "team": "GBP",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038994",
+   "sleeperId": "9756",
+   "name": "Jordan Addison",
+   "team": "MIN",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0034960",
+   "sleeperId": "5947",
+   "name": "Jakobi Meyers",
+   "team": "JAC",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039491",
+   "sleeperId": "11646",
+   "name": "Jalen Coker",
+   "team": "CAR",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0031588",
+   "sleeperId": "2449",
+   "name": "Stefon Diggs",
+   "team": "WAS",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0041547",
+   "sleeperId": "13298",
+   "name": "KC Concepcion",
+   "team": "CLE",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0037261",
+   "sleeperId": "8134",
+   "name": "Khalil Shakir",
+   "team": "BUF",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038563",
+   "sleeperId": "10213",
+   "name": "Tre Tucker",
+   "team": "LVR",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0037816",
+   "sleeperId": "8121",
+   "name": "Romeo Doubs",
+   "team": "NEP",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040667",
+   "sleeperId": "12501",
+   "name": "Matthew Golden",
+   "team": "GBP",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037664",
+   "sleeperId": "8142",
+   "name": "Alec Pierce",
+   "team": "IND",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0039894",
+   "sleeperId": "11624",
+   "name": "Xavier Worthy",
+   "team": "KCC",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041035",
+   "sleeperId": "13417",
+   "name": "De'Zhaun Stribling",
+   "team": "SFO",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037545",
+   "sleeperId": "8676",
+   "name": "Rashid Shaheed",
+   "team": "SEA",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0035719",
+   "sleeperId": "5872",
+   "name": "Deebo Samuel Sr.",
+   "team": "SFO",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0040867",
+   "sleeperId": "13294",
+   "name": "Makai Lemon",
+   "team": "PHI",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037291",
+   "sleeperId": "8180",
+   "name": "Jalen Nailor",
+   "team": "LVR",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039890",
+   "sleeperId": "11625",
+   "name": "Adonai Mitchell",
+   "team": "NYJ",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041037",
+   "sleeperId": "13346",
+   "name": "Denzel Boston",
+   "team": "CLE",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0036407",
+   "sleeperId": "6783",
+   "name": "Jerry Jeudy",
+   "team": "CLE",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038393",
+   "sleeperId": "9486",
+   "name": "Dontayvion Wicks",
+   "team": "PHI",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039855",
+   "sleeperId": "11618",
+   "name": "Jalen McMillan",
+   "team": "TBB",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038608",
+   "sleeperId": "9504",
+   "name": "Kayshon Boutte",
+   "team": "HOU",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0030279",
+   "sleeperId": "1479",
+   "name": "Keenan Allen",
+   "team": "IND",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0039424",
+   "sleeperId": "11834",
+   "name": "Devaughn Vele",
+   "team": "NOS",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0036259",
+   "sleeperId": "7049",
+   "name": "Jauan Jennings",
+   "team": "MIN",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039880",
+   "sleeperId": "11610",
+   "name": "Malik Washington",
+   "team": "MIA",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0033908",
+   "sleeperId": "4039",
+   "name": "Cooper Kupp",
+   "team": "SEA",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040727",
+   "sleeperId": "12509",
+   "name": "Tre' Harris",
+   "team": "LAC",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039410",
+   "sleeperId": "11783",
+   "name": "Ryan Flournoy",
+   "team": "DAL",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040870",
+   "sleeperId": "13293",
+   "name": "Ja'Kobi Lane",
+   "team": "BAL",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040134",
+   "sleeperId": "12492",
+   "name": "Pat Bryant",
+   "team": "DEN",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041511",
+   "sleeperId": "13276",
+   "name": "Omar Cooper Jr.",
+   "team": "NYJ",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041523",
+   "sleeperId": "13296",
+   "name": "Caleb Douglas",
+   "team": "MIA",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041042",
+   "sleeperId": "13285",
+   "name": "Malachi Fields",
+   "team": "NYG",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0034837",
+   "sleeperId": "4981",
+   "name": "Calvin Ridley",
+   "team": "TEN",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036309",
+   "sleeperId": "7090",
+   "name": "Darnell Mooney",
+   "team": "NYG",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036550",
+   "sleeperId": "7571",
+   "name": "Rashod Bateman",
+   "team": "BAL",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040138",
+   "sleeperId": "12536",
+   "name": "Jaylin Noel",
+   "team": "HOU",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041525",
+   "sleeperId": "13311",
+   "name": "Chris Bell",
+   "team": "MIA",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0040669",
+   "sleeperId": "12535",
+   "name": "Isaac TeSlaa",
+   "team": "DET",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041489",
+   "sleeperId": "13274",
+   "name": "Germie Bernard",
+   "team": "PIT",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0039868",
+   "sleeperId": "11627",
+   "name": "Troy Franklin",
+   "team": "DEN",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039342",
+   "sleeperId": "11626",
+   "name": "Xavier Legette",
+   "team": "CAR",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041044",
+   "sleeperId": "13320",
+   "name": "Zachariah Branch",
+   "team": "ATL",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038104",
+   "sleeperId": "8188",
+   "name": "Tyquan Thornton",
+   "team": "KCC",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040729",
+   "sleeperId": "12483",
+   "name": "Jack Bech",
+   "team": "LVR",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041048",
+   "sleeperId": "13317",
+   "name": "Ted Hurst III",
+   "team": "TBB",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0038621",
+   "sleeperId": "9501",
+   "name": "DeMario Douglas",
+   "team": "NEP",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0039901",
+   "sleeperId": "11637",
+   "name": "Keon Coleman",
+   "team": "BUF",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038619",
+   "sleeperId": "10226",
+   "name": "Andrei Iosivas",
+   "team": "CIN",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040718",
+   "sleeperId": "12530",
+   "name": "Travis Hunter",
+   "team": "JAC",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040170",
+   "sleeperId": "12499",
+   "name": "Elic Ayomanor",
+   "team": "TEN",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0041040",
+   "sleeperId": "13301",
+   "name": "Antonio Williams",
+   "team": "WAS",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0038976",
+   "sleeperId": "9494",
+   "name": "Marvin Mims Jr.",
+   "team": "DEN",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0033307",
+   "sleeperId": "4454",
+   "name": "Kendrick Bourne",
+   "team": "ARI",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037666",
+   "sleeperId": "8117",
+   "name": "Jalen Tolbert",
+   "team": "MIA",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037741",
+   "sleeperId": "8119",
+   "name": "Jahan Dotson",
+   "team": "ATL",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0040890",
+   "sleeperId": "13413",
+   "name": "Cyrus Allen",
+   "team": "KCC",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038618",
+   "sleeperId": "10218",
+   "name": "Xavier Hutchinson",
+   "team": "HOU",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040705",
+   "sleeperId": "12540",
+   "name": "Chimere Dike",
+   "team": "TEN",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0035535",
+   "sleeperId": "6149",
+   "name": "Darius Slayton",
+   "team": "FA",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0041067",
+   "sleeperId": "13420",
+   "name": "Bryce Lance",
+   "team": "NOS",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0035662",
+   "sleeperId": "5848",
+   "name": "Hollywood Brown",
+   "team": "PHI",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0035208",
+   "sleeperId": "6271",
+   "name": "Olamide Zaccheaus",
+   "team": "ATL",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037801",
+   "sleeperId": "8917",
+   "name": "KaVontae Turpin",
+   "team": "DAL",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040131",
+   "sleeperId": "12547",
+   "name": "Kyle Williams",
+   "team": "NEP",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0033555",
+   "sleeperId": "4177",
+   "name": "Mack Hollins",
+   "team": "NEP",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036988",
+   "sleeperId": "7670",
+   "name": "Joshua Palmer",
+   "team": "BUF",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0031235",
+   "sleeperId": "2078",
+   "name": "Odell Beckham Jr.",
+   "team": "NYG",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040876",
+   "sleeperId": "13268",
+   "name": "Elijah Sarratt",
+   "team": "BAL",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": null,
+   "sleeperId": null,
+   "name": "Roman Wilson",
+   "team": "PIT",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0032464",
+   "sleeperId": "3634",
+   "name": "Kalif Raymond",
+   "team": "CHI",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041443",
+   "sleeperId": "13402",
+   "name": "Skyler Bell",
+   "team": "BUF",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039451",
+   "sleeperId": "11608",
+   "name": "Isaiah Williams",
+   "team": "NYJ",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041099",
+   "sleeperId": "13533",
+   "name": "Barion Brown",
+   "team": "NOS",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037742",
+   "sleeperId": "8135",
+   "name": "Treylon Burks",
+   "team": "WAS",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0035021",
+   "sleeperId": "6427",
+   "name": "Ashton Dulin",
+   "team": "IND",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040237",
+   "sleeperId": "12485",
+   "name": "Tez Johnson",
+   "team": "TBB",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0032775",
+   "sleeperId": "3286",
+   "name": "Demarcus Robinson",
+   "team": "SFO",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040894",
+   "sleeperId": "13329",
+   "name": "Malik Benson",
+   "team": "LVR",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041051",
+   "sleeperId": "13411",
+   "name": "Zavion Thomas",
+   "team": "CHI",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040590",
+   "sleeperId": "12718",
+   "name": "Konata Mumpfield",
+   "team": "LAR",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041550",
+   "sleeperId": "13380",
+   "name": "Brenen Thompson",
+   "team": "LAC",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039751",
+   "sleeperId": "11623",
+   "name": "Jordan Whittington",
+   "team": "LAR",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039792",
+   "sleeperId": "11629",
+   "name": "Devontez Walker",
+   "team": "BAL",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040782",
+   "sleeperId": "12503",
+   "name": "Isaiah Bond",
+   "team": "CLE",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039355",
+   "sleeperId": "11650",
+   "name": "Luke McCaffrey",
+   "team": "WAS",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041069",
+   "sleeperId": "13477",
+   "name": "Colbie Young",
+   "team": "CIN",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037231",
+   "sleeperId": "8200",
+   "name": "Kevin Austin Jr.",
+   "team": "NOS",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0041529",
+   "sleeperId": "13338",
+   "name": "Kevin Coleman Jr.",
+   "team": "MIA",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0040218",
+   "sleeperId": "12523",
+   "name": "Jimmy Horn Jr.",
+   "team": "CAR",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038359",
+   "sleeperId": "11168",
+   "name": "Xavier Smith",
+   "team": "LAR",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040277",
+   "sleeperId": "13079",
+   "name": "Jahdae Walker",
+   "team": "CHI",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037614",
+   "sleeperId": "8147",
+   "name": "John Metchie III",
+   "team": "CAR",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040646",
+   "sleeperId": "12505",
+   "name": "Jalen Royals",
+   "team": "KCC",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040154",
+   "sleeperId": "12496",
+   "name": "Tai Felton",
+   "team": "MIN",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0026864",
+   "sleeperId": null,
+   "name": "Isaiah Williams",
+   "team": "FA",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0037091",
+   "sleeperId": "8204",
+   "name": "Bo Melton",
+   "team": "GBP",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036626",
+   "sleeperId": "7587",
+   "name": "Dyami Brown",
+   "team": "WAS",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036182",
+   "sleeperId": "7496",
+   "name": "Nick Westbrook-Ikhine",
+   "team": "IND",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0036980",
+   "sleeperId": "7596",
+   "name": "Elijah Moore",
+   "team": "PHI",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041132",
+   "sleeperId": "13333",
+   "name": "Deion Burks",
+   "team": "IND",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037524",
+   "sleeperId": "8250",
+   "name": "Tay Martin",
+   "team": "DET",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0040785",
+   "sleeperId": "13264",
+   "name": "Dohnte Meyers",
+   "team": "CIN",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0038840",
+   "sleeperId": "11157",
+   "name": "Brycen Tremayne",
+   "team": "CAR",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040164",
+   "sleeperId": "12641",
+   "name": "Jaylin Lane",
+   "team": "WAS",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039062",
+   "sleeperId": "10225",
+   "name": "Jonathan Mingo",
+   "team": "DAL",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041100",
+   "sleeperId": "13394",
+   "name": "Josh Cameron",
+   "team": "JAC",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0033375",
+   "sleeperId": "4351",
+   "name": "Tim Patrick",
+   "team": "NYJ",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038728",
+   "sleeperId": "11056",
+   "name": "Jared Wayne",
+   "team": "HOU",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038090",
+   "sleeperId": "8168",
+   "name": "Skyy Moore",
+   "team": "GBP",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040184",
+   "sleeperId": "12670",
+   "name": "KeAndre Lambert-Smith",
+   "team": "LAC",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038573",
+   "sleeperId": "10234",
+   "name": "Derius Davis",
+   "team": "LAC",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0032951",
+   "sleeperId": "3155",
+   "name": "Laquon Treadwell",
+   "team": "IND",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038640",
+   "sleeperId": "11034",
+   "name": "Jalen Brooks",
+   "team": "ARI",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0035406",
+   "sleeperId": "5938",
+   "name": "Lil'Jordan Humphrey",
+   "team": "DEN",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040390",
+   "sleeperId": "12938",
+   "name": "Jackson Meeks",
+   "team": "DET",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0030564",
+   "sleeperId": "1426",
+   "name": "DeAndre Hopkins",
+   "team": "BAL",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0038979",
+   "sleeperId": "10444",
+   "name": "Cedric Tillman",
+   "team": "NOS",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0039920",
+   "sleeperId": "11617",
+   "name": "Malachi Corley",
+   "team": "CLE",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040024",
+   "sleeperId": "13150",
+   "name": "Darius Cooper",
+   "team": "PHI",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041397",
+   "sleeperId": "13491",
+   "name": "Kaden Wetjen",
+   "team": "PIT",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036331",
+   "sleeperId": "6847",
+   "name": "Devin Duvernay",
+   "team": "ARI",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040621",
+   "sleeperId": "13199",
+   "name": "Montorie Foster Jr.",
+   "team": "SEA",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0032211",
+   "sleeperId": "2374",
+   "name": "Tyler Lockett",
+   "team": "LVR",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0037093",
+   "sleeperId": "8527",
+   "name": "Dareke Young",
+   "team": "LVR",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0036646",
+   "sleeperId": "7812",
+   "name": "Simi Fehoko",
+   "team": "ARI",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041070",
+   "sleeperId": "13297",
+   "name": "Reggie Virgil",
+   "team": "ARI",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039365",
+   "sleeperId": "11616",
+   "name": "Jacob Cowing",
+   "team": "SFO",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036630",
+   "sleeperId": "7595",
+   "name": "Tylan Wallace",
+   "team": "CLE",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0031236",
+   "sleeperId": "2197",
+   "name": "Brandin Cooks",
+   "team": "FA",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0035500",
+   "sleeperId": "5970",
+   "name": "Greg Dortch",
+   "team": "BUF",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0036862",
+   "sleeperId": "7757",
+   "name": "Ben Skowronek",
+   "team": "PIT",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036463",
+   "sleeperId": "7521",
+   "name": "Chris Blair",
+   "team": "ATL",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040948",
+   "sleeperId": "13770",
+   "name": "J. Michael Sturdivant",
+   "team": "GBP",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039810",
+   "sleeperId": "11640",
+   "name": "Jermaine Burton",
+   "team": "FA",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0040075",
+   "sleeperId": "12699",
+   "name": "LaJohntay Wester",
+   "team": "BAL",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038824",
+   "sleeperId": "11421",
+   "name": "Ryan Miller",
+   "team": "MIA",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040582",
+   "sleeperId": "12539",
+   "name": "Arian Smith",
+   "team": "NYJ",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037745",
+   "sleeperId": "8223",
+   "name": "Velus Jones Jr.",
+   "team": "SEA",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0034854",
+   "sleeperId": "5773",
+   "name": "KhaDarel Hodge",
+   "team": "SFO",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036196",
+   "sleeperId": "6943",
+   "name": "Gabe Davis",
+   "team": "FA",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0035216",
+   "sleeperId": "5937",
+   "name": "Diontae Johnson",
+   "team": "FA",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0039589",
+   "sleeperId": "11994",
+   "name": "Kameron Johnson",
+   "team": "TBB",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038519",
+   "sleeperId": "11320",
+   "name": "Nikko Remigio",
+   "team": "KCC",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0035544",
+   "sleeperId": "6588",
+   "name": "Tom Kennedy",
+   "team": "DET",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0040534",
+   "sleeperId": "12971",
+   "name": "Ke'Shawn Williams",
+   "team": "CIN",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040506",
+   "sleeperId": "13075",
+   "name": "Myles Price",
+   "team": "MIN",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040241",
+   "sleeperId": "12732",
+   "name": "Dominic Lovett",
+   "team": "DET",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0033040",
+   "sleeperId": "3321",
+   "name": "Tyreek Hill",
+   "team": "FA",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0040930",
+   "sleeperId": "13726",
+   "name": "Camden Brown",
+   "team": "DAL",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041106",
+   "sleeperId": "13554",
+   "name": "CJ Williams",
+   "team": "JAC",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0035298",
+   "sleeperId": "6290",
+   "name": "Scotty Miller",
+   "team": "CHI",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038839",
+   "sleeperId": "11068",
+   "name": "Mitchell Tinsley",
+   "team": "HOU",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0040431",
+   "sleeperId": null,
+   "name": "Dalen Cambre",
+   "team": "NYG",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0034419",
+   "sleeperId": "5121",
+   "name": "Braxton Berrios",
+   "team": "NYG",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036415",
+   "sleeperId": "6853",
+   "name": "Van Jefferson",
+   "team": "WAS",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0038740",
+   "sleeperId": "11506",
+   "name": "Jalen Moreno-Cropper",
+   "team": "NOS",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040522",
+   "sleeperId": "12520",
+   "name": "Xavier Restrepo",
+   "team": "TEN",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0033591",
+   "sleeperId": "4234",
+   "name": "Noah Brown",
+   "team": "FA",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036427",
+   "sleeperId": "6960",
+   "name": "Tyler Johnson",
+   "team": "FA",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0034407",
+   "sleeperId": "5096",
+   "name": "Ray-Ray McCloud III",
+   "team": "FA",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036959",
+   "sleeperId": "8076",
+   "name": "Michael Bandy",
+   "team": "DEN",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038938",
+   "sleeperId": "9497",
+   "name": "Jalin Hyatt",
+   "team": "NYG",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0035891",
+   "sleeperId": "7039",
+   "name": "Cody White",
+   "team": "LVR",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0038181",
+   "sleeperId": "11520",
+   "name": "Lucky Jackson",
+   "team": "DET",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038953",
+   "sleeperId": "11474",
+   "name": "Dylan Drummond",
+   "team": "ATL",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0035140",
+   "sleeperId": "5917",
+   "name": "Mecole Hardman Jr.",
+   "team": "FA",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040311",
+   "sleeperId": "12860",
+   "name": "Theo Wease Jr.",
+   "team": "LAC",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0034860",
+   "sleeperId": "4992",
+   "name": "Dante Pettis",
+   "team": "FA",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0034272",
+   "sleeperId": "5086",
+   "name": "Marquez Valdes-Scantling",
+   "team": "FA",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0039816",
+   "sleeperId": "11762",
+   "name": "Anthony Gould",
+   "team": "IND",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037487",
+   "sleeperId": "8253",
+   "name": "Deven Thompkins",
+   "team": "LVR",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0033891",
+   "sleeperId": "4080",
+   "name": "Zay Jones",
+   "team": "FA",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": null,
+   "sleeperId": null,
+   "name": "Michael Wortham",
+   "team": "JAC",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0035602",
+   "sleeperId": "6386",
+   "name": "Alex Bachman",
+   "team": "LAR",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0033589",
+   "sleeperId": "4274",
+   "name": "David Moore",
+   "team": "CAR",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038496",
+   "sleeperId": "11306",
+   "name": "Xavier Gipson",
+   "team": "FA",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0038576",
+   "sleeperId": "10228",
+   "name": "Charlie Jones",
+   "team": "NYG",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040337",
+   "sleeperId": "12909",
+   "name": "Eli Pancol",
+   "team": "FA",
+   "position": "WR",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0036775",
+   "sleeperId": "7865",
+   "name": "Brandon Smith",
+   "team": "PIT",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": null,
+   "sleeperId": null,
+   "name": "Raylen Sharpe",
+   "team": "FA",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038492",
+   "sleeperId": "11311",
+   "name": "Jason Brownlee",
+   "team": "FA",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0034487",
+   "sleeperId": "5154",
+   "name": "Trent Sherfield Sr.",
+   "team": "BUF",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": null,
+   "sleeperId": null,
+   "name": "Sahmir Hagans",
+   "team": "FA",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041248",
+   "sleeperId": "13318",
+   "name": "Noah Thomas",
+   "team": "CIN",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040375",
+   "sleeperId": "12761",
+   "name": "Jordan Moore",
+   "team": "CIN",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036841",
+   "sleeperId": "7746",
+   "name": "Austin Trammell",
+   "team": "JAC",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0035589",
+   "sleeperId": "6045",
+   "name": "Gary Jennings Jr.",
+   "team": "LAC",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040298",
+   "sleeperId": "12863",
+   "name": "Andrew Armstrong",
+   "team": "KCC",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040558",
+   "sleeperId": "13074",
+   "name": "Isaiah Neyor",
+   "team": "GBP",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040239",
+   "sleeperId": "12721",
+   "name": "Kaden Prather",
+   "team": "FA",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040597",
+   "sleeperId": "13011",
+   "name": "Brennan Presley",
+   "team": "LAR",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038891",
+   "sleeperId": "11257",
+   "name": "Shedrick Jackson",
+   "team": "FA",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0032398",
+   "sleeperId": "3269",
+   "name": "Chris Moore",
+   "team": "BAL",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0035529",
+   "sleeperId": "5886",
+   "name": "Hakeem Butler",
+   "team": "FA",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": null,
+   "sleeperId": null,
+   "name": "Tru Edwards",
+   "team": "FA",
+   "position": "WR",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037744",
+   "sleeperId": "8130",
+   "name": "Trey McBride",
+   "team": "ARI",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040126",
+   "sleeperId": "12517",
+   "name": "Colston Loveland",
+   "team": "CHI",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040128",
+   "sleeperId": "12518",
+   "name": "Tyler Warren",
+   "team": "IND",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036970",
+   "sleeperId": "7553",
+   "name": "Kyle Pitts Sr.",
+   "team": "ATL",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039065",
+   "sleeperId": "10859",
+   "name": "Sam LaPorta",
+   "team": "DET",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040663",
+   "sleeperId": "12506",
+   "name": "Harold Fannin Jr.",
+   "team": "CLE",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038996",
+   "sleeperId": "9484",
+   "name": "Tucker Kraft",
+   "team": "GBP",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0034351",
+   "sleeperId": "5022",
+   "name": "Dallas Goedert",
+   "team": "PHI",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036040",
+   "sleeperId": "7002",
+   "name": "Juwan Johnson",
+   "team": "NOS",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0030506",
+   "sleeperId": "1466",
+   "name": "Travis Kelce",
+   "team": "KCC",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037838",
+   "sleeperId": "8131",
+   "name": "Isaiah Likely",
+   "team": "NYG",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0038041",
+   "sleeperId": "8110",
+   "name": "Jake Ferguson",
+   "team": "DAL",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0034753",
+   "sleeperId": "5012",
+   "name": "Mark Andrews",
+   "team": "BAL",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038933",
+   "sleeperId": "10236",
+   "name": "Dalton Kincaid",
+   "team": "BUF",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0034383",
+   "sleeperId": "5001",
+   "name": "Dalton Schultz",
+   "team": "HOU",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0033288",
+   "sleeperId": "4217",
+   "name": "George Kittle",
+   "team": "SFO",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0039066",
+   "sleeperId": "9482",
+   "name": "Michael Mayer",
+   "team": "LVR",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0038935",
+   "sleeperId": "9480",
+   "name": "Brenton Strange",
+   "team": "JAC",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0033090",
+   "sleeperId": "3214",
+   "name": "Hunter Henry",
+   "team": "NEP",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0035229",
+   "sleeperId": "5844",
+   "name": "T.J. Hockenson",
+   "team": "MIN",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039793",
+   "sleeperId": "11603",
+   "name": "AJ Barner",
+   "team": "SEA",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038129",
+   "sleeperId": "8111",
+   "name": "Cade Otton",
+   "team": "TBB",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0037809",
+   "sleeperId": "8210",
+   "name": "Chig Okonkwo",
+   "team": "WAS",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037252",
+   "sleeperId": "8172",
+   "name": "Greg Dulcich",
+   "team": "MIA",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036894",
+   "sleeperId": "7600",
+   "name": "Pat Freiermuth",
+   "team": "PIT",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040584",
+   "sleeperId": "12502",
+   "name": "Gunnar Helm",
+   "team": "TEN",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040737",
+   "sleeperId": "12487",
+   "name": "Terrance Ferguson",
+   "team": "LAR",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0033881",
+   "sleeperId": "4066",
+   "name": "Evan Engram",
+   "team": "DEN",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036244",
+   "sleeperId": "6865",
+   "name": "Colby Parkinson",
+   "team": "LAR",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040189",
+   "sleeperId": "12493",
+   "name": "Oronde Gadsden II",
+   "team": "LAC",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0041032",
+   "sleeperId": "13330",
+   "name": "Kenyon Sadiq",
+   "team": "NYJ",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0033885",
+   "sleeperId": "4033",
+   "name": "David Njoku",
+   "team": "LAC",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0034829",
+   "sleeperId": "4993",
+   "name": "Mike Gesicki",
+   "team": "CIN",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0031610",
+   "sleeperId": "2505",
+   "name": "Darren Waller",
+   "team": "CAR",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040736",
+   "sleeperId": "12498",
+   "name": "Mason Taylor",
+   "team": "NYJ",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037112",
+   "sleeperId": "8698",
+   "name": "Jake Tonges",
+   "team": "SFO",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0038558",
+   "sleeperId": "9479",
+   "name": "Darnell Washington",
+   "team": "PIT",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038046",
+   "sleeperId": "8127",
+   "name": "Charlie Kolar",
+   "team": "LAC",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0039847",
+   "sleeperId": "11597",
+   "name": "Theo Johnson",
+   "team": "NYG",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036290",
+   "sleeperId": "6826",
+   "name": "Cole Kmet",
+   "team": "CHI",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040739",
+   "sleeperId": "12521",
+   "name": "Elijah Arroyo",
+   "team": "SEA",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0033110",
+   "sleeperId": "3271",
+   "name": "Tyler Higbee",
+   "team": "LAR",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039814",
+   "sleeperId": "11592",
+   "name": "Erick All Jr.",
+   "team": "CIN",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0035689",
+   "sleeperId": "5906",
+   "name": "Dawson Knox",
+   "team": "BUF",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0035644",
+   "sleeperId": "5857",
+   "name": "Noah Fant",
+   "team": "NOS",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0036637",
+   "sleeperId": "7828",
+   "name": "Noah Gray",
+   "team": "KCC",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038115",
+   "sleeperId": "8225",
+   "name": "Daniel Bellinger",
+   "team": "TEN",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041395",
+   "sleeperId": "13421",
+   "name": "Eli Raridon",
+   "team": "NEP",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0039041",
+   "sleeperId": "10231",
+   "name": "Elijah Higgins",
+   "team": "ARI",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0032392",
+   "sleeperId": "3202",
+   "name": "Austin Hooper",
+   "team": "ATL",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0033858",
+   "sleeperId": "4144",
+   "name": "Jonnu Smith",
+   "team": "GBP",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0035249",
+   "sleeperId": "5973",
+   "name": "Josh Oliver",
+   "team": "MIN",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037005",
+   "sleeperId": "7694",
+   "name": "Tommy Tremble",
+   "team": "CAR",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041483",
+   "sleeperId": "13349",
+   "name": "Eli Stowers",
+   "team": "PHI",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0039356",
+   "sleeperId": "11600",
+   "name": "Ja'Tavion Sanders",
+   "team": "CAR",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0035631",
+   "sleeperId": "6001",
+   "name": "Drew Sample",
+   "team": "CIN",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036422",
+   "sleeperId": "6869",
+   "name": "Adam Trautman",
+   "team": "DEN",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036754",
+   "sleeperId": "7891",
+   "name": "Brock Wright",
+   "team": "DET",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041041",
+   "sleeperId": "13319",
+   "name": "Oscar Delp",
+   "team": "NOS",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041503",
+   "sleeperId": "13299",
+   "name": "Nate Boerkircher",
+   "team": "JAC",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041524",
+   "sleeperId": "13434",
+   "name": "Will Kacmarek",
+   "team": "MIA",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": null,
+   "sleeperId": null,
+   "name": "Matt Hibner",
+   "team": "BAL",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0034981",
+   "sleeperId": "5985",
+   "name": "Foster Moreau",
+   "team": "HOU",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0033217",
+   "sleeperId": "4054",
+   "name": "Mo Alie-Cox",
+   "team": "IND",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038547",
+   "sleeperId": "10871",
+   "name": "Luke Schoonmaker",
+   "team": "DAL",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040187",
+   "sleeperId": "12473",
+   "name": "Mitchell Evans",
+   "team": "CAR",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036628",
+   "sleeperId": "7716",
+   "name": "John Bates",
+   "team": "WAS",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0034798",
+   "sleeperId": "5008",
+   "name": "Durham Smythe",
+   "team": "BAL",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039912",
+   "sleeperId": "11596",
+   "name": "Ben Sinnott",
+   "team": "WAS",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041472",
+   "sleeperId": "13307",
+   "name": "Marlin Klein",
+   "team": "HOU",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0039530",
+   "sleeperId": "11593",
+   "name": "Brevyn Spann-Ford",
+   "team": "DAL",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0040194",
+   "sleeperId": "12658",
+   "name": "Jackson Hawes",
+   "team": "BUF",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037004",
+   "sleeperId": "7535",
+   "name": "Hunter Long",
+   "team": "ARI",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0034365",
+   "sleeperId": "4995",
+   "name": "Ian Thomas",
+   "team": "LVR",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0037805",
+   "sleeperId": "8145",
+   "name": "Jeremy Ruckert",
+   "team": "NYJ",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039359",
+   "sleeperId": "11599",
+   "name": "Cade Stover",
+   "team": "HOU",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039074",
+   "sleeperId": "10214",
+   "name": "Davis Allen",
+   "team": "LAR",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038710",
+   "sleeperId": "11201",
+   "name": "Blake Whiteheart",
+   "team": "CLE",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041084",
+   "sleeperId": "13408",
+   "name": "Tanner Koziol",
+   "team": "JAC",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0038589",
+   "sleeperId": "10212",
+   "name": "Josh Whyle",
+   "team": "GBP",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0033246",
+   "sleeperId": "4314",
+   "name": "Johnny Mundt",
+   "team": "PHI",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0034613",
+   "sleeperId": "5409",
+   "name": "Tanner Hudson",
+   "team": "CIN",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0039050",
+   "sleeperId": "10227",
+   "name": "Payne Durham",
+   "team": "TBB",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041558",
+   "sleeperId": "13322",
+   "name": "Sam Roush",
+   "team": "CHI",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041077",
+   "sleeperId": "13400",
+   "name": "Justin Joly",
+   "team": "MIA",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0038783",
+   "sleeperId": "11433",
+   "name": "Nate Adkins",
+   "team": "DEN",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0040887",
+   "sleeperId": "13273",
+   "name": "Josh Cuevas",
+   "team": "BAL",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036887",
+   "sleeperId": "7842",
+   "name": "Luke Farrell",
+   "team": "SFO",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037292",
+   "sleeperId": "8489",
+   "name": "Drew Ogletree",
+   "team": "IND",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041116",
+   "sleeperId": "13282",
+   "name": "Jack Endries",
+   "team": "CIN",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0033576",
+   "sleeperId": "4189",
+   "name": "Eric Saubert",
+   "team": "SEA",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041131",
+   "sleeperId": "13580",
+   "name": "Carsen Ryan",
+   "team": "CLE",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036429",
+   "sleeperId": "7075",
+   "name": "Charlie Woerner",
+   "team": "ATL",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040488",
+   "sleeperId": "13122",
+   "name": "Carter Runyon",
+   "team": "LVR",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0034270",
+   "sleeperId": "5133",
+   "name": "Tyler Conklin",
+   "team": "DET",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0036876",
+   "sleeperId": "7602",
+   "name": "Kylen Granson",
+   "team": "TEN",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0033757",
+   "sleeperId": "4602",
+   "name": "Robert Tonyan",
+   "team": "PIT",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041579",
+   "sleeperId": "13429",
+   "name": "Seydou Traore",
+   "team": "MIA",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039824",
+   "sleeperId": "11595",
+   "name": "Jared Wiley",
+   "team": "KCC",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036590",
+   "sleeperId": "7536",
+   "name": "Quintin Morris",
+   "team": "JAC",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0037304",
+   "sleeperId": "8181",
+   "name": "Connor Heyward",
+   "team": "LVR",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0041133",
+   "sleeperId": "13577",
+   "name": "Dallen Bentley",
+   "team": "DEN",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039648",
+   "sleeperId": "12357",
+   "name": "David Martin-Robinson",
+   "team": "TEN",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0031484",
+   "sleeperId": "3048",
+   "name": "Chris Manhertz",
+   "team": "NYG",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038564",
+   "sleeperId": "10210",
+   "name": "Cameron Latu",
+   "team": "NEP",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0040509",
+   "sleeperId": "13121",
+   "name": "Ben Yurosek",
+   "team": "MIN",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": null,
+   "sleeperId": null,
+   "name": "Tanner Arkin",
+   "team": "NEP",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039686",
+   "sleeperId": "11942",
+   "name": "Colson Yankoff",
+   "team": "WAS",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041398",
+   "sleeperId": "13433",
+   "name": "Riley Nowakowski",
+   "team": "PIT",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040215",
+   "sleeperId": "12700",
+   "name": "Gavin Bartholomew",
+   "team": "MIN",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040081",
+   "sleeperId": "12817",
+   "name": "Jake Briningstool",
+   "team": "KCC",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036556",
+   "sleeperId": "7568",
+   "name": "Brevin Jordan",
+   "team": "HOU",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037311",
+   "sleeperId": "8484",
+   "name": "Ko Kieft",
+   "team": "TBB",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038498",
+   "sleeperId": "11304",
+   "name": "E.J. Jenkins",
+   "team": "PHI",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": null,
+   "sleeperId": null,
+   "name": "Mark Redman",
+   "team": "GBP",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041094",
+   "sleeperId": "13308",
+   "name": "Bauer Sharp",
+   "team": "TBB",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036825",
+   "sleeperId": "7531",
+   "name": "Feleipe Franks",
+   "team": "CAR",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0037755",
+   "sleeperId": "8219",
+   "name": "Jelani Woods",
+   "team": "NYJ",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0036332",
+   "sleeperId": "7050",
+   "name": "Josiah Deguara",
+   "team": "FA",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0030615",
+   "sleeperId": "1785",
+   "name": "James Winchester",
+   "team": "KCC",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040225",
+   "sleeperId": "12715",
+   "name": "Thomas Fidone II",
+   "team": "NYG",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038488",
+   "sleeperId": "11280",
+   "name": "Brady Russell",
+   "team": "SEA",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037475",
+   "sleeperId": "8583",
+   "name": "Stone Smartt",
+   "team": "NOS",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0040363",
+   "sleeperId": "12765",
+   "name": "Keleki Latu",
+   "team": "BUF",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040628",
+   "sleeperId": null,
+   "name": "Drake Dabney",
+   "team": "GBP",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040939",
+   "sleeperId": "13401",
+   "name": "Michael Trigg",
+   "team": "DAL",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037277",
+   "sleeperId": "8227",
+   "name": "Teagan Quitoriano",
+   "team": "ARI",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": "00-0037539",
+   "sleeperId": "8249",
+   "name": "Lucas Krull",
+   "team": "DEN",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039489",
+   "sleeperId": "12389",
+   "name": "Hayden Rucci",
+   "team": "JAC",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": null,
+   "sleeperId": null,
+   "name": "Anthony Miller",
+   "team": "FA",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0037348",
+   "sleeperId": "8849",
+   "name": "Tanner Conner",
+   "team": "FA",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": null,
+   "sleeperId": null,
+   "name": "Ty Pezza",
+   "team": "BAL",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038643",
+   "sleeperId": "10224",
+   "name": "Brayden Willis",
+   "team": "SFO",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": null,
+   "sleeperId": null,
+   "name": "Joel Wilson",
+   "team": "TEN",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0033439",
+   "sleeperId": "4443",
+   "name": "Pharaoh Brown",
+   "team": "IND",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": null,
+   "sleeperId": null,
+   "name": "Tommy Myers",
+   "team": "FA",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": null,
+   "sleeperId": null,
+   "name": "Joshua Simon",
+   "team": "FA",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0039305",
+   "sleeperId": "12045",
+   "name": "Jack Westover",
+   "team": "WAS",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0040566",
+   "sleeperId": "12984",
+   "name": "CJ Dippre",
+   "team": "TBB",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": null,
+   "sleeperId": null,
+   "name": "Messiah Swinson",
+   "team": "CLE",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": null,
+   "sleeperId": null,
+   "name": "Lake McRee",
+   "team": "PIT",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": null,
+   "sleeperId": null,
+   "name": "Patrick Herbert",
+   "team": "LAC",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": null,
+   "sleeperId": null,
+   "name": "Evan Svoboda",
+   "team": "LAC",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0038406",
+   "sleeperId": "9483",
+   "name": "Zack Kuntz",
+   "team": "FA",
+   "position": "TE",
+   "flagged": true
+  },
+  {
+   "gsisId": null,
+   "sleeperId": null,
+   "name": "Thomas Gordon",
+   "team": "DET",
+   "position": "TE",
+   "flagged": false
+  },
+  {
+   "gsisId": "00-0041357",
+   "sleeperId": "13432",
+   "name": "Khalil Dinkins",
+   "team": "SFO",
+   "position": "TE",
+   "flagged": false
+  }
+ ]
 }
